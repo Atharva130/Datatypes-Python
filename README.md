@@ -13,4 +13,3 @@ Data types in Python define the kind of value a variable can hold. Python has bu
 - Collection data types: `list`, `tuple`, `set`, `dict`  
 - Type casting and conversion  
 - Mutable vs Immutable types  
-- Checking types using `type()` and `isinstance()`  
